@@ -155,6 +155,7 @@ class coment:
                 name = re.search('"name":"(.*?)"', str(data)).group(1)
                 print('\rFailled Comment In Post : %s%s%s'%(m, name, p))
                 print('*' * 25)
+                fl+=1
 
         self.getPostGraphql(cursor)
 
