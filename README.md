@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img width="500" height="200" src="https://github.com/XMod-04/fb-comment/blob/main/coment.png">
+  <img max-width="500" max-height="600" src="https://github.com/XMod-04/fb-comment/blob/main/coment.png">
 </p>
